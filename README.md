@@ -50,4 +50,4 @@ Future analysis can help us if we:
 
 
 Tableau link:
-[link to dashboard](https://public.tableau.com/app/profile/molly6200/viz/bikesharing_16278802592450/NumberofRecords?publish=yes)
+[link to dashboard](https://public.tableau.com/app/profile/molly6200/viz/bikesharing_16278802592450/Story1?publish=yes)
